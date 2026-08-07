@@ -1,1 +1,2 @@
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Nic0lAsJoffr3&theme=merko&hide_border=true"/> </p>
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nic0lAsJoffr3&show_icons=true&theme=transparent&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/> </p>
