@@ -12,8 +12,14 @@ Utilizo este espaço para documentar meus projetos, estudos e experiências no d
 Meu foco é criar projetos práticos, melhorar minhas habilidades e explorar diferentes áreas da tecnologia.
 
 ## Portfólio
-
-[https://nic0lasjoffr3.github.io/portfolio-/](https://nic0lasjoffr3.github.io/portfolio-/)
+<p align="center">
+<a href="https://nic0lasjoffr3.github.io/portfolio-/" target="_blank" >
+    <img src="./Portifolio.png" width="500">
+</a><br>
+  <a href="https://nic0lasjoffr3.github.io/portfolio-/" target="_blank">
+  Meu Portfólio
+</a>
+</p>
 
 ## Tecnologias
 
