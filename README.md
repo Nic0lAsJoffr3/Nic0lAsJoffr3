@@ -3,6 +3,9 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nic0lAsJoffr3&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nic0lAsJoffr3&layout=compact&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nic0lAsJoffr3&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nic0lAsJoffr3&layout=compact" />
 </p>
